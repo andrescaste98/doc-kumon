@@ -8,7 +8,7 @@ Esta opción permitirá registrar un nuevo libro al catálogo para que los alumn
 * Nivel del libro
 * Número del libro
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Esta opción debe usarse **únicamente** en caso de que se añada un nuevo libro a la lista de lecturas recomendadas oficial de Kumon. Esto deberá ser notificado por la Orientadora antes de agregar un nuevo libro.
 {% endhint %}
 

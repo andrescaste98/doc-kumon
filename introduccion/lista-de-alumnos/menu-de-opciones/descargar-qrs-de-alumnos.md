@@ -4,7 +4,7 @@ Esta opción descargará todos los QR's de los alumnos activos del sistema de as
 
 Al dar click, la página notificará sobre el proceso a realizar y al terminar se descargará un archivo comprimido en formato `.zip` que contendrá los QR's de todos los alumnos en formato `.png`.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 El proceso de descarga puede demorar dependiendo de la cantidad de alumnos registrados en el sistema de asistencia. **Es importante no recargar la página mientras este proceso está en ejecución.**
 {% endhint %}
 

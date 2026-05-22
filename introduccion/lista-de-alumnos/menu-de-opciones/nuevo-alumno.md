@@ -2,6 +2,10 @@
 
 Aquí tendrémos la posibilidad de registrar un nuevo alumno al Sistema de Asistencia. Al dar click, se desplegará un formulario solicitando la siguiente información:
 
+{% hint style="info" %}
+Este formulario es el mismo que se despliega al dar click en el botón "Editar" en el panel izquierdo de la [Lista de alumnos](../#id-1.-panel-izquierdo-alumnos-activos).
+{% endhint %}
+
 * Nombre: El nombre completo del alumno
 * Fecha de nacimiento: La fecha de nacimiento del alumno
 * Días del estudiante: Días y horarios de sesión del alumno
@@ -12,8 +16,9 @@ Aquí tendrémos la posibilidad de registrar un nuevo alumno al Sistema de Asist
 * Modalidad: Modalidad del alumno
 * Sección: Sección del alumno (Colocar "Principiantes")
 * Digital: Seleccionar en caso de que el alumno ingrese a la modalidad digital (con tablet)
+* Factura: Seleccionar en caso de que el alumno requiera factura del pago de las mensualidades.
 
 <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Vista del formulario de registro de nuevo alumno</p></figcaption></figure>
 
-Al dar click en el botón "Registrar" el alumno será dado de alta en el sistema y se generará su [Perfil del Alumno](../perfil-del-alumno.md). Aparecerá al final de la [lista de alumnos inscritos](../#id-1.-panel-izquierdo-alumnos-activos).
+Al dar click en el botón "Registrar" el alumno será dado de alta en el sistema, se generará su [Perfil del Alumno](../perfil-del-alumno.md), y se enviará una notificación al canal de Discord. También aparecerá al final de la [lista de alumnos inscritos](../#id-1.-panel-izquierdo-alumnos-activos).
 

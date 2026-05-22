@@ -12,10 +12,10 @@ Esta opción deberá usarse sólo en los siguientes casos.
 
 Al dar click, se desplegará un formulario solicitando la siguiente información:
 
-* Alumno: Selector de alumnos activos en orden de inscripción (El más nuevo al final).
-* Libro: Un selector de libros.
+* Alumno: Selector de alumnos activos en orden de inscripción (el más nuevo al final).
+* Libro: El selector de libros que muestra a que nivel pertenece el título.
 * Páginas leídas: El número de páginas leídas indicado por el alumno y/o la Asistente.
-* Libro completado: Seleccionar en caso de que el libro haya sido completado por el alumno.
+* Libro completado: Seleccionar en caso de que el libro haya sido terminado por el alumno.
 
 <figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Interfaz del formulario de registro de lectura manual</p></figcaption></figure>
 

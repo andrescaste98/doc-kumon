@@ -39,11 +39,11 @@ Al seleccionar la opción "Entrada" el sistema registrará la hora de entrada de
 
 ## Registro de Salida <img src="../.gitbook/assets/image (3).png" alt="" data-size="line">
 
-Al seleccionar la opción "Salida" el sistema mostrará una pantalla en donde el alumno deberá seleccionar como fue su experiencia en la sesión, teniendo como opciónes:
+Al seleccionar la opción "Salida" el sistema mostrará una pantalla en donde el alumno deberá seleccionar como fue su experiencia en la sesión, teniendo como opciones:
 
-* <i class="fa-face-smile">:face-smile:</i> Feliz/Alegre/Contento/Motivado
-* <i class="fa-face-flushed">:face-flushed:</i> Triste/Desanimado/Cansado
-* <i class="fa-face-frown">:face-frown:</i> Enojado/Desmotivado/Frustado/Estresado
+* <i class="fa-face-smile" style="color:$success;">:face-smile:</i> Feliz/Alegre/Contento/Motivado
+* <i class="fa-face-flushed" style="color:$warning;">:face-flushed:</i> Triste/Desanimado/Cansado
+* <i class="fa-face-frown" style="color:$danger;">:face-frown:</i> Enojado/Desmotivado/Frustrado/Estresado
 
 <figure><img src="../.gitbook/assets/menu qr.png" alt=""><figcaption><p>Selector de experiencia al registrar salida</p></figcaption></figure>
 
@@ -55,9 +55,9 @@ Después de seleccionar su experiencia con el icono correspondiente, aparecerá 
 
 ### Registro de Material <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">
 
-Para los alumnos físicos, los que utilizan material de papel, deberán seleccionar esta opción cuando recojan material ya sea por ausentismo, cambio de horarios, o modalidad virtual. Al seleccionar esta opción, aparecerá el siguiente mensaje de confirmación:
+Para los alumnos físicos, los que utilizan material de papel, deberán seleccionar esta opción cuando recojan material ya sea por ausentismo, cambio de horarios, o modalidad híbrida. Al seleccionar esta opción, aparecerá el siguiente mensaje de confirmación:
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Mensaje de confirmación al seleccionar la opción "Material"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Mensaje de confirmación al seleccionar la opción "Material"</p></figcaption></figure>
 
 {% hint style="info" %}
 Es importante confirmar con la Orientadora y/o los Asistentes el material antes de entregarlo al alumno. Así como asegurarse de entregar el material correspondiente al alumno en cuestión y no entregar el de otro alumno.
@@ -71,7 +71,11 @@ Es importante confirmar con la Orientadora y/o los Asistentes el material antes 
 Esta opción es **exclusiva** para los alumnos del programa de Lectura.
 {% endhint %}
 
-Al seleccionar esta opción, el scanner cambiará a color <mark style="color:yellow;">**amarillo**</mark>**,** indicando que se ha habilitado el modo de escaneo de libros, por lo que el alumno deberá escanear el QR del libro que desea registrar.
+{% hint style="info" %}
+Antes de acceder al registro de libro, el alumno deberá escanear primero su código QR personal.
+{% endhint %}
+
+Al seleccionar esta opción, el scanner cambiará a color <mark style="color:$warning;">**amarillo**</mark>**,** indicando que se ha habilitado el modo de escaneo de libros, por lo que el alumno deberá escanear el QR del libro que desea registrar.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Modo de escaneo de libros</p></figcaption></figure>
 

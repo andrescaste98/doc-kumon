@@ -20,3 +20,5 @@
   * [Lector del mes](introduccion/lector-del-mes.md)
   * [Inventario](introduccion/inventario.md)
 * [Errores frecuentes](errores-frecuentes.md)
+* [Soluciones](soluciones.md)
+* [html sound 1](html-sound-1.md)

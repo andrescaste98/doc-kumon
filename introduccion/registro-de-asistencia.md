@@ -25,6 +25,18 @@ Al escanear un código QR válido, aparecerá un menú que permitirá selecciona
 * [Material](registro-de-asistencia.md#registro-de-material): Registra una entrega de material de un alumno físico.
 * [Libro](registro-de-asistencia.md#registro-de-libro): Abre el scanner de libros para registrar una lectura.
 
+Es importante que conozcas los dos sonidos principales del sistema de asistencia, con el fin de que identifiques un registro exitoso o un error.
+
+🎵 Haz clic aquí para escuchar el audio explicativo
+
+{% file src="../.gitbook/assets/Announcement sound effect - Sound Effects.mp3" %}
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+
+Al realizar un registro correcto, el Sistema de Asistencia emitirá el siguiente sonido:
+
+Al realizar un registro incorrecto o producirse un error, el sistema emitirá el siguiente sonido
+
 <figure><img src="../.gitbook/assets/menu salida.png" alt=""><figcaption><p>Menú selector de opciones al escanear un QR válido</p></figcaption></figure>
 
 ***

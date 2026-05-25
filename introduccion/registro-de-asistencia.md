@@ -98,7 +98,7 @@ Esta opción es **exclusiva** para los alumnos del programa de Lectura.
 {% endhint %}
 
 {% hint style="info" %}
-Antes de acceder al registro de libro, el alumno deberá escanear primero su código QR personal.
+**Antes de realizar el registro del libro, es importante que el alumno escanee primero su código QR personal.**
 {% endhint %}
 
 Al seleccionar esta opción, el scanner cambiará a color <mark style="color:$warning;">**amarillo**</mark>**,** indicando que se ha habilitado el modo de escaneo de libros, por lo que el alumno deberá escanear el QR del libro que desea registrar.

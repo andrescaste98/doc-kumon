@@ -12,7 +12,6 @@ Al entrar al sistema, te encontrarás con una interfaz simple y un menú para na
 * [Incidencias](incidencias.md)
 * [Cumpleaños](cumpleanos.md)
 * [Lector del Mes](lector-del-mes.md)
-* [Inventario](/broken/pages/vMTSXP5TeddkwbWYZtNF)
 
 <figure><img src=".gitbook/assets/menu principal scanner.png" alt=""><figcaption><p>Interfaz del scanner del Sistema de Asistencia</p></figcaption></figure>
 

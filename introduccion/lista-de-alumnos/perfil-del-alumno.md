@@ -10,6 +10,10 @@ Se puede agregar una nota del día en el perfil del alumno dando click en el bot
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
+Cuando un día tiene una nota, aparecerá de esta forma:
+
+<figure><img src="../../.gitbook/assets/image (51).png" alt="" width="341"><figcaption></figcaption></figure>
+
 ***
 
 ## Opciones

@@ -53,7 +53,7 @@ Después de seleccionar su experiencia con el icono correspondiente, aparecerá 
 
 ***
 
-### Registro de Material <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">
+## Registro de Material <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">
 
 Para los alumnos físicos, los que utilizan material de papel, deberán seleccionar esta opción cuando recojan material ya sea por ausentismo, cambio de horarios, o modalidad híbrida. Al seleccionar esta opción, aparecerá el siguiente mensaje de confirmación:
 
@@ -65,7 +65,7 @@ Es importante confirmar con la Orientadora y/o los Asistentes el material antes 
 
 ***
 
-### Registro de Libro <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
+## Registro de Libro <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
 
 {% hint style="warning" %}
 Esta opción es **exclusiva** para los alumnos del programa de Lectura.

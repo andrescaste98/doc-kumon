@@ -18,24 +18,38 @@ Al entrar al sistema, te encontrarás con una interfaz simple y un menú para na
 
 ***
 
+## Sonidos
+
+Es importante que conozcas los tres sonidos principales del sistema de asistencia, con el fin de que identifiques un registro exitoso o un error.
+
+{% tabs %}
+{% tab title="Scan" %}
+Escucharás este sonido cuando un QR válido de un alumno es escaneado en el sistema de asistencia.
+
+{% file src="../.gitbook/assets/scan.mp3" %}
+{% endtab %}
+
+{% tab title="Success" %}
+Escucharás este sonido cuando se ha realizado un registro exitodo se [entrada](registro-de-asistencia.md#registro-de-entrada), [salida](registro-de-asistencia.md#registro-de-salida), [libro ](registro-de-asistencia.md#registro-de-libro)o [material](registro-de-asistencia.md#registro-de-material).
+
+{% file src="../.gitbook/assets/success.flac" %}
+{% endtab %}
+
+{% tab title="Error" %}
+Escucharás este sonido cuando se ha producido un error en el registro o se ha escaneado un QR inválido.
+
+{% file src="../.gitbook/assets/error.wav" %}
+{% endtab %}
+{% endtabs %}
+
+***
+
 Al escanear un código QR válido, aparecerá un menú que permitirá seleccionar la opción deseada:
 
 * [Entrada](registro-de-asistencia.md#registro-de-entrada): Registra la entrada del alumno que haya escaneado el QR.
 * [Salida](registro-de-asistencia.md#registro-de-salida): Registra la salida del alumno que haya escaneado el QR.
 * [Material](registro-de-asistencia.md#registro-de-material): Registra una entrega de material de un alumno físico.
 * [Libro](registro-de-asistencia.md#registro-de-libro): Abre el scanner de libros para registrar una lectura.
-
-Es importante que conozcas los dos sonidos principales del sistema de asistencia, con el fin de que identifiques un registro exitoso o un error.
-
-🎵 Haz clic aquí para escuchar el audio explicativo
-
-{% file src="../.gitbook/assets/Announcement sound effect - Sound Effects.mp3" %}
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
-
-Al realizar un registro correcto, el Sistema de Asistencia emitirá el siguiente sonido:
-
-Al realizar un registro incorrecto o producirse un error, el sistema emitirá el siguiente sonido
 
 <figure><img src="../.gitbook/assets/menu salida.png" alt=""><figcaption><p>Menú selector de opciones al escanear un QR válido</p></figcaption></figure>
 

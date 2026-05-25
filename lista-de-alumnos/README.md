@@ -15,7 +15,7 @@ Contiene el listado completo de alumnos inscritos en el centro.
   * Borrar: Elimina el registro del alumno de forma permanente del sistema.
 * Contador global: Muestra el número total de alumnos activos inscritos.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ## 2.- Panel Derecho: Alumnos del día
 
@@ -29,13 +29,13 @@ Muestra exclusivamente a los alumnos que tienen programada su sesión para el d�
 * Confirmación de salida: Una vez que el alumno escanea su salida, aparecerá una check junto a su tiempo de sesión.
 *
 
-    <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Simbología y colores:
 
-<table data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center">Alumno Virtual</td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (13).png">image (13).png</a></td></tr><tr><td align="center">Alumno Híbrido</td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (14).png">image (14).png</a></td></tr><tr><td align="center">Alumno Físico (Papel)</td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (15).png">image (15).png</a></td></tr><tr><td align="center">Tiempo de sesión por debajo de su tiempo límite</td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (23).png">image (23).png</a></td></tr><tr><td align="center">Tiempo de sesión por encima de su tiempo límite</td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (24).png">image (24).png</a></td></tr><tr><td align="center">Alumno con salida registrada</td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (16).png">image (16).png</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center">Alumno Virtual</td><td data-object-fit="contain"><a href="../.gitbook/assets/image (13).png">image (13).png</a></td></tr><tr><td align="center">Alumno Híbrido</td><td data-object-fit="contain"><a href="../.gitbook/assets/image (14).png">image (14).png</a></td></tr><tr><td align="center">Alumno Físico (Papel)</td><td data-object-fit="contain"><a href="../.gitbook/assets/image (15).png">image (15).png</a></td></tr><tr><td align="center">Tiempo de sesión por debajo de su tiempo límite</td><td data-object-fit="contain"><a href="../.gitbook/assets/image (23).png">image (23).png</a></td></tr><tr><td align="center">Tiempo de sesión por encima de su tiempo límite</td><td data-object-fit="contain"><a href="../.gitbook/assets/image (24).png">image (24).png</a></td></tr><tr><td align="center">Alumno con salida registrada</td><td data-object-fit="contain"><a href="../.gitbook/assets/image (16).png">image (16).png</a></td></tr></tbody></table>
 
 ## Códigos de colores:
 
@@ -43,25 +43,25 @@ Muestra exclusivamente a los alumnos que tienen programada su sesión para el d�
 {% tab title="Vino" %}
 <p align="center">Alumno sin registro de entrada (falta)</p>
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Verde" %}
 <p align="center">Alumno con entrada a tiempo<br>(menos de 10 minutos de diferencia respecto a su hora de entrada)</p>
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Naranja" %}
 <p align="center">Alumno con retardo<br>(10 minutos o más de su hora de entrada)</p>
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Amarillo" %}
 <p align="center">Alumno con registro de entrega de material.</p>
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -69,5 +69,5 @@ Muestra exclusivamente a los alumnos que tienen programada su sesión para el d�
 
 
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Vista principal del apartado "Alumnos"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Vista principal del apartado "Alumnos"</p></figcaption></figure>
 

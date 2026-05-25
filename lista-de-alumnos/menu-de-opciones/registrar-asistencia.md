@@ -17,10 +17,10 @@ Al dar click, se desplegará un formulario solicitando la siguiente información
   * Entrada
   * Salida
   * Material
-* Valoración (Sólo salida): En caso de que el registro sea de tipo "Salida" se deberá indicar el tipo de valoración (véase [Registro de salida](../../registro-de-asistencia.md#registro-de-salida)):
+* Valoración (Sólo salida): En caso de que el registro sea de tipo "Salida" se deberá indicar el tipo de valoración (véase [Registro de salida](../../#registro-de-salida)):
   * Feliz
   * Triste
   * Enojado
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Interfaz del formulario de registro de asistencia manual</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Interfaz del formulario de registro de asistencia manual</p></figcaption></figure>
 

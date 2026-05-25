@@ -26,7 +26,7 @@
 
 <details>
 
-<summary>Al escanear un QR o realizar un registro (entrada, salida, material o libro) suena el <a href="introduccion/registro-de-asistencia.md#sonidos">sonido de error</a>.</summary>
+<summary>Al escanear un QR o realizar un registro (entrada, salida, material o libro) suena el <a href="./#sonidos">sonido de error</a>.</summary>
 
 * Actualiza la página.
 * Verifica que el QR sea legible. Que no esté roto, cortado, tapado, muy cerca o muy lejos de la cámara.
@@ -37,7 +37,7 @@
 
 <details>
 
-<summary>Al escanear el QR de un libro, suena el <a href="introduccion/registro-de-asistencia.md#sonidos">sonido de error</a>.</summary>
+<summary>Al escanear el QR de un libro, suena el <a href="./#sonidos">sonido de error</a>.</summary>
 
 * Verifica que se haya escaneado primero el QR personal del alumno, se haya seleccionado la opción "Libro" y el sistema de asistencia esté en color <mark style="color:$warning;">**amarillo**</mark>**.**
 * Verifica que el código QR del libro no esté roto, cortado, tapado, muy cerca o muy lejos de la cámara.
